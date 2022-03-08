@@ -1,5 +1,6 @@
-filename=".buildkite/scripts/steps/code_coverage/data_retention/2020_dirs_file.txt"
 #filename=".buildkite/scripts/steps/code_coverage/data_retention/test_dirs_file.txt"
+#filename=".buildkite/scripts/steps/code_coverage/data_retention/2020_dirs_file.txt"
+filename=".buildkite/scripts/steps/code_coverage/data_retention/2021_dirs_file.txt"
 
 while read line
 do
